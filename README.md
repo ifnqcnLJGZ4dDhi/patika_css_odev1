@@ -1,2 +1,2 @@
 # patika_css_odev1
-CSS le çalıştığım ilk projem
+CSS ile calistigim ilk projem
